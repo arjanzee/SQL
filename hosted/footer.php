@@ -17,7 +17,7 @@
 					data: {content: $("#diary").val()}
 				})
 					.done(function(msg) {
-					console.log ("Howdie");
+					console.log ("ajax runs OK");
 				});
 			});
 			
